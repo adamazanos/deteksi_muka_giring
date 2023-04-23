@@ -17,9 +17,11 @@
 ## 🤖 Preview *Input - Output*
 Contoh *preview* *face detection*
 
+
 |*Input*| *Output* |
 |--|--|
-|  <img src="https://user-images.githubusercontent.com/5068315/230698495-cbb1ced9-c911-4c9a-941d-a1a4a1286ac6.png" width="500"></img> | asfasfa |
-|  <img src="https://user-images.githubusercontent.com/5068315/230698495-cbb1ced9-c911-4c9a-941d-a1a4a1286ac6.png" width="500"></img> | asfasfa |
+|  <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/Obama%20-%20Biden%201.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/Obama%20-%20Biden%202.png" width="500"></img>
+|  <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%201.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
+
 
 
