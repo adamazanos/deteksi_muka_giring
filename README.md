@@ -1,7 +1,9 @@
-
 #  🕵️‍♂️ Face *Recognition* Training
-## 🧑‍🎤 deteksi_muka_giring
 
+## 🔗 This Link
+- https://github.com/adamazanos/deteksi_muka_giring
+
+## 🧑‍🎤 deteksi_muka_giring
 
 > Menggunakan *tutorial* dari
 > [https://www.linkedin.com/posts/risdiandita_facerecognition-facedetection-security-activity-6844185762259460096-rHF4/?originalSubdomain=id](https://www.linkedin.com/posts/risdiandita_facerecognition-facedetection-security-activity-6844185762259460096-rHF4/?originalSubdomain=id)
@@ -22,7 +24,3 @@ Contoh *preview* *face detection*
 |--|--|
 |  <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/Obama%20-%20Biden%201.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/Obama%20-%20Biden%202.png" width="500"></img>
 |  <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%201.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
-
-## 🔗 This Link
-
-- https://github.com/adamazanos/deteksi_muka_giring
