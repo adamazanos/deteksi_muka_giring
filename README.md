@@ -8,6 +8,7 @@
 
 [face-recognition 1.3.0](https://pypi.org/project/face-recognition/ ) adalah *library* python yang bertujuan untuk mendeteksi gambar wajah dan mampu mengkategorikan pemilik muka yang berbeda. Library ini juga mampu mendeteksi secara *real-time* menggunakan *webcam*.
 
+Pada projek ini bertujuan untuk menerapkan konsep tersebut untuk menguji kemampuan deteksi wajah dengan custom dataset tersendiri, yang pada kasus ini adalah  Giring Ganesha.
 
 ## 🔊 *Preview Code*
 
